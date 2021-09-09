@@ -1,4 +1,4 @@
-# Hola, Hello, Hallo.
+# Hy there, I's Iker.
 
 - 😀 My name is Iker and I'm a young spanish developer
 - 💻 I have worked in some projects like a [FiveM](https://fivem.net/).
@@ -8,6 +8,7 @@
 ### Programming anguages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![LUA](https://img.shields.io/badge/-Lua-000?&logo=LUA)
-![HTML](https://img.shields.io/badge/-html-000?&logo=HTML)
-![CSS](https://img.shields.io/badge/-css-000?&logo=CSS)
+![HTML](https://img.shields.io/badge/-html-000?&logo=html)
+![CSS](https://img.shields.io/badge/-css-000?&logo=css)
+<br>
 Some basic knowledge from ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) and ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
