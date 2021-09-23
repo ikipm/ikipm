@@ -7,7 +7,5 @@
 ### Programming languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![LUA](https://img.shields.io/badge/-Lua-000?&logo=LUA)
-![html](https://img.shields.io/badge/-html-000?&logo=html5)
-![css](https://img.shields.io/badge/-css-000?&logo=css3)
 <br>
-Some basic knowledge from ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) and ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+Some basic knowledge from ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript), ![html](https://img.shields.io/badge/-html-000?&logo=html5), ![css](https://img.shields.io/badge/-css-000?&logo=css3) and ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
