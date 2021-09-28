@@ -3,7 +3,7 @@
 - 😀 My name is Iker and I'm a young Spanish developer
 - 💻 I have worked on some projects such us as a [FiveM server](https://fivem.net/).
 - 🔭 I’m currently working on improving my ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) skills.
-- ⛳ I'm into learning ![C#](https://img.shields.io/badge/-C#-000?&logo=Csharp) and improving my DB knowledge by ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) and introducing myself in non relational databases.
+- ⛳ I'm into learning ![C#](https://img.shields.io/badge/-Csharp-000?&logo=csharp) and improving my DB knowledge by ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) and introducing myself in non relational databases.
 - 💬 I can speak Catalan, Spanish, English. Ich lerne Deutsch. 🎓
 ### Programming languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
