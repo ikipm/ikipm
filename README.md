@@ -1,6 +1,6 @@
 # Hy there, it's Iker.
 
-# About me.
+## About me.
 
 - 😀 My name is Iker and I'm a young Catalan (Spanish) developer.
 - 💻 I have worked on some projects in different languages such us Python or JavaScript.
