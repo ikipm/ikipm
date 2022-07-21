@@ -1,4 +1,4 @@
-# Hy there, it's Iker.
+# Hi there, it's Iker.
 
 ## About me.
 
