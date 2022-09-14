@@ -3,7 +3,7 @@
 ## About me.
 
 - 😀 My name is Iker and I'm a young Catalan (Spanish) developer.
-- 💻 I have worked on some projects in different languages such us Python, JavaScript, Lua and other languages.
+- 💻 I have worked on some projects in different languages such as Python, JavaScript, Lua and other languages.
 - ⛳ I'm into learning ![Java](https://img.shields.io/badge/-Java-000?&logo=java).
 - 💬 I speak Catalan, Spanish, English. Ich spreche etwas Deutsch. 🎓
 - 📕 Working as a coding teacher, guiding kids into programming and computational thinking.
