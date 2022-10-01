@@ -19,5 +19,5 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=linux)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=apache)
