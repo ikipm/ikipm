@@ -4,7 +4,7 @@
 
 - 😀 My name is Iker, and I'm a young Catalan (Spanish) developer.
 - 💻 I have worked on some projects in different languages such as Python, JavaScript, Lua and other languages.
-- ⛳ I'm into learning ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus).
+- ⛳ I'm into learning ![C](https://img.shields.io/badge/-C-000?&logo=c).
 - 💬 I speak Catalan (Native), Spanish (Native), English (C1). Ich spreche etwas Deutsch. 🎓
 - 📕 Working as a teacher, guiding kids into programming and computational thinking.
 
