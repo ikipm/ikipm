@@ -4,7 +4,7 @@
 
 - 😀 My name is Iker, and I'm a young Catalan (Spanish) developer.
 - 💻 I have worked on some projects in different languages such as Python, JavaScript, PHP, and other languages.
-- 🧑‍🏫 Spreading Cybersecurity Awareness and developing new functionalities in [SafeClick](https://safeclick.cat/)
+- 🧑‍🏫 Spreading Cybersecurity Awareness and developing new functionalities in [SafeClick](https://safeclick.cat/locale/en)
 - 📕 Working as a teacher, guiding kids into programming and computational thinking.
 - ⛳ I'm into learning ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust).
 - 💬 I speak Catalan (Native), Spanish (Native), English (C1). Ich spreche etwas Deutsch. 🎓
