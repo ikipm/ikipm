@@ -9,8 +9,9 @@
 - 💬 I speak Catalan (Native), Spanish (Native), English (C1). Ich spreche etwas Deutsch. 🎓
 
 ### Programming languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-000?&logo=c)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
